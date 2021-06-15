@@ -11,7 +11,7 @@ const Hero = () => {
     <Wrapper className="section-center">
       <article className="content">
         <h1>
-          build your infrastructure <br />
+          build infrastructure <br />
         </h1>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus

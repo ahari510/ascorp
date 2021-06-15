@@ -19,7 +19,7 @@ const FeaturedProducts = () => {
   return (
     <Wrapper className="section">
       <div className="title">
-        <h2>featured services</h2>
+        <h2>services</h2>
         <div className="underline"></div>
       </div>
       <div className="section-center featured">
